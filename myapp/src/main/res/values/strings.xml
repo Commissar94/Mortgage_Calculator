@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Калькулятор ипотечных платежей</string>
+
+    <string name="mortgage_start_sum">Сумма ипотеки</string>
+    <string name="mortgage_start_sum_hint">Введите сумму</string>
+    <string name="mortgage_start_date">Дата выдачи ипотеки</string>
+    <string name="mortgage_start_date_hint">Введите дату</string>
+    <string name="mortgage_start_payment_day">День оплаты</string>
+    <string name="start_years_of_mortgage">Срок ипотеки</string>
+    <string name="start_years_of_mortgage_hint">Введите количество лет</string>
+    <string name="percent_of_mortgage">Процентная ставка</string>
+    <string name="percent_of_mortgage_hint">Введите процент</string>
+    <string name="count">Подтвердить данные</string>
+    <string name="sum">sum</string>
+</resources>
